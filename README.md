@@ -14,4 +14,4 @@ TODO
 * Add support for other manga sites
 * Handle multiple books
 * Create web interface
-* More fun stuff!!
+* More fun stuff!! 
