@@ -1,3 +1,0 @@
-*HELLO WORLD
-''''
-*HI TRAVIS
