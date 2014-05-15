@@ -1,5 +1,5 @@
 <?php
-
+// Allocate mem stack pointers
 $no = '59';
 $ep = "1";
 $destDir = '/Users/andresortiz/Documents/Attack/Chapter_1/';
